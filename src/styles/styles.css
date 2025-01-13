@@ -1,0 +1,9 @@
+.dropdown-menu {
+    border: 1px solid lightgray;
+    display: inline-block;
+    padding: 4px;
+}
+
+.dropdown-list {
+    border-top: 1px solid black;
+}
