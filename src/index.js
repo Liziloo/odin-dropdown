@@ -1,1 +1,5 @@
-console.log("Hello This is a Javascript project.");
+import { dropdownMenu } from "./modules/dropdown";
+
+(function() {
+    dropdownMenu();
+}) ();
